@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" >
+    <solid android:color="@color/train_background_overlay"/>
+</shape><!-- From: file:/C:/Users/Eoin/StudioProjects/RailwayCalendar/app/src/main/res/drawable/train_overlay_shape.xml -->

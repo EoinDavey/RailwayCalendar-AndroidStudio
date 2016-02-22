@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="MissingTranslation">
+    
+    <string-array name="navArray" translatable="false">
+        <item>Date Calculator</item>
+        <item>Railway Calendar</item>
+        <item>Split</item>
+    </string-array>
+    
+</resources>

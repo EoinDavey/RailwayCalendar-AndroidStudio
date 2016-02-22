@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="MissingTranslation">
+
+    <string name="app_name">Railway Calendar</string>
+    <string name="train_background_desc">The Image of a train for the background</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="calculator_frag">Date Calculator</string>
+    <string name="date">Date</string>
+    <string name="edit_button_desc">Edit Button</string>
+    <string name="railway_time">Railway Time</string>
+    <string name="week">Week: </string>
+    <string name="year_begins">Year Begins</string>
+    <string name="day">Day</string>
+    <string name="week_hint">WW</string>
+    <string name="day_hint">D</string>
+    <string name="year_hint">YYYY</string>
+
+</resources>

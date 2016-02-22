@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Eoin/StudioProjects/RailwayCalendar/app/src/main/res/values-xlarge-mdpi/arrays.xml -->
+    <eat-comment/>
+    <string-array name="navArray" translatable="false">
+        <item>Date Calculator</item>
+        <item>Railway Calendar</item>
+        <item>Split</item>
+    </string-array>
+</resources>
